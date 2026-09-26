@@ -1,0 +1,12 @@
+accelerate
+codetiming
+datasets
+dill
+hydra-core
+numpy
+pandas
+pybind11
+tensordict
+transformers
+IPython
+matplotlib
